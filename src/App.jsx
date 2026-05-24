@@ -82,6 +82,14 @@ const data = [
     ],
   },
   {
+  brand: "Apple",
+  model: "iPhone 16 Plus",
+  variants: [
+    { memory: "128 GB", sellMin: 48000, sellMax: 60000, buyMin: 32000, buyMax: 40000 },
+    { memory: "256 GB", sellMin: 54000, sellMax: 67000, buyMin: 36000, buyMax: 44500 },
+  ],
+},
+  {
     brand: "Apple",
     model: "iPhone 16 Pro",
     variants: [
